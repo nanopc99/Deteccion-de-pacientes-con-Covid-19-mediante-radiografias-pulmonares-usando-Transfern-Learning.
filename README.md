@@ -1,0 +1,1 @@
+# Deteccion-de-pacientes-con-Covid-19-mediante-radiografias-pulmonares-usando-Transfern-Learning.
